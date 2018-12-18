@@ -1,0 +1,4 @@
+- Coding
+- Design
+- Math
+- Creative stuff in general
